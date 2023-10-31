@@ -1,5 +1,5 @@
 body {
-  background-color: #f0f0f0;
+  background-image: linear-gradient(to left, rgb(29, 31, 72), rgb(143, 9, 109));
   font-family: Arial, sans-serif;
   flex-wrap: wrap;
   justify-content: center;
